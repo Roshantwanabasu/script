@@ -1,0 +1,4 @@
+This is shell script assignment
+1. It only print line containing numbers.
+22. Other than that no other lines are printed.
+This is the last line.
